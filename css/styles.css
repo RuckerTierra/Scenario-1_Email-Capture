@@ -169,6 +169,6 @@ img {
   transition: opacity .3s ease-in-out .4s;
 }
 
-.email-thank--success .email-think__title, .email-thank--success .email-thank__message {
+.email-thank__success .email-thank__title, .email-thank__success .email-thank__message {
   opacity: 1;
 }
